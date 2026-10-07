@@ -52,9 +52,8 @@ API-документация (Docs-as-Code, OpenAPI), сопровождение
 
 ---
 
-### Активность на GitHub
+### Контакты
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=flavrinets-hash&show_icons=true&theme=default&hide_border=true" alt="Fedor's GitHub stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=flavrinets-hash&layout=compact&hide_border=true" alt="Top Languages" height="150" />
-</p>
+* **Email:** [flavrinets@gmail.com](mailto:flavrinets@gmail.com)
+* **GitHub:** [flavrinets-hash](https://github.com/flavrinets-hash)
+* **Telegram:** [@bonjouriafedya](https://t.me/bonjouriafedya)
