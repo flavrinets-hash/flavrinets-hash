@@ -1,6 +1,6 @@
 # Fedor Lavrinets
 
-**Technical Writer | Technical Support Engineer (L2)**
+**Technical Writer | Technical Support Engineer**
 
 API-документация (Docs-as-Code, OpenAPI), сопровождение интеграций, диагностика REST API и сетевых протоколов.
 
@@ -15,25 +15,25 @@ API-документация (Docs-as-Code, OpenAPI), сопровождение
 ### Технические навыки
 
 * **Техническая документация:** Docs-as-Code, спецификации OpenAPI 3.0 / Swagger UI, методология Diátaxis, MkDocs (Material), архитектурные схемы (Mermaid, Draw.io)  
-  ![OpenAPI 3.0](https://img.shields.io/badge/OpenAPI_3.0-6BA539?style=flat-square&logo=openapi-initiative&logoColor=white)
-  ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
-  ![MkDocs Material](https://img.shields.io/badge/MkDocs_Material-526CFE?style=flat-square&logo=materialformkdocs&logoColor=white)
-  ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
+  <img src="https://img.shields.io/badge/OpenAPI_3.0-6BA539?style=flat-square&logo=openapi-initiative&logoColor=white" alt="OpenAPI 3.0" />
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black" alt="Swagger" />
+  <img src="https://img.shields.io/badge/MkDocs_Material-526CFE?style=flat-square&logo=materialformkdocs&logoColor=white" alt="MkDocs Material" />
+  <img src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white" alt="Markdown" />
 
 * **API & Протоколы:** REST API, Webhooks, HTTP/HTTPS (заголовки, коды ответов, таймауты), JSON, Postman, cURL  
-  ![REST API](https://img.shields.io/badge/REST_API-02569B?style=flat-square)
-  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-  ![cURL](https://img.shields.io/badge/cURL-073551?style=flat-square&logo=curl&logoColor=white)
-  ![JSON](https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white)
+  <img src="https://img.shields.io/badge/REST_API-02569B?style=flat-square" alt="REST API" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/cURL-073551?style=flat-square&logo=curl&logoColor=white" alt="cURL" />
+  <img src="https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white" alt="JSON" />
 
-* **Диагностика & Инфраструктура:** Анализ серверных логов (access/error logs), Nginx (Reverse Proxy, SSL/TLS termination, логирование), Linux / Bash, проверка подписей HMAC-SHA256  
-  ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
-  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-  ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+* **Диагностика & Инфраструктура:** Анализ серверных логов (access/error logs), Nginx (Reverse Proxy, SSL/TLS termination, логирование), Linux / Bash  
+  <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" alt="Nginx" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Bash" />
 
 * **Инструменты & Процессы:** Git, GitHub Actions (CI/CD сборки документации и линтинг), воспроизведение инцидентов, локализация сбоев  
-  ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-  ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" alt="GitHub Actions" />
 
 ---
 
@@ -49,11 +49,3 @@ API-документация (Docs-as-Code, OpenAPI), сопровождение
   * Настройка автоматической сборки документации на GitHub Pages и линтинга Markdown через GitHub Actions.
 * **Стек:** OpenAPI 3.0, Swagger UI, MkDocs Material, Nginx, Mermaid, Draw.io, GitHub Actions
 * **Ссылки:** [Репозиторий](https://github.com/flavrinets-hash/Telegram_OpenAPI) | [Документация (GitHub Pages)](https://flavrinets-hash.github.io/Telegram_OpenAPI/)
-
----
-
-### Контакты
-
-* **Email:** [flavrinets@gmail.com](mailto:flavrinets@gmail.com)
-* **GitHub:** [flavrinets-hash](https://github.com/flavrinets-hash)
-* **Telegram:** [@bonjouriafedya](https://t.me/bonjouriafedya)
